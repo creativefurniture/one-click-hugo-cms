@@ -1,6 +1,6 @@
 ---
 title: "Mükemmel Kahve"
-subtitle: Support sustainable farming while enjoying a cup
+subtitle: Kahve bizden sorulur 
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Why Kaldi?
